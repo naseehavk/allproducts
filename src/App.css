@@ -1,38 +1,19 @@
-.App {
-  text-align: center;
+.App{
+    /* background-image: url('https://media.istockphoto.com/id/1164166274/photo/online-shopping-concept-little-model-shopping-trolley-blue-background.jpg?s=612x612&w=0&k=20&c=WyGiAxKVq7U-8jQknIhaC3qA56x60ZuaDCZ7dCzZ9M4='); */
+/* background-image: url('https://media.istockphoto.com/id/1316256350/photo/shopping-online-buy-or-sale-on-screen-store-application-internet-website-with-mobile-phone.jpg?s=612x612&w=0&k=20&c=pk4AM-c_jocNKkPSlgKd6ICklDUx3aszLlHKu2YkfJo=');
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: cover; */
+/* background-color: pink; */
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.wel{
+    
+        font-family: "Dancing Script", cursive;
+        font-optical-sizing: auto;
+        font-style: normal;
+      
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+ul{
+    list-style-type: none;
+    color: gray;
 }
